@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\8 September 2022\Mortar Sim Servo\Mortar Sim Servo\bin\Debug\Mortar Sim Servo.exe.config
+C:\Users\LENOVO\source\repos\8 September 2022\Mortar Sim Servo\Mortar Sim Servo\bin\Debug\Mortar Sim Servo.exe
+C:\Users\LENOVO\source\repos\8 September 2022\Mortar Sim Servo\Mortar Sim Servo\bin\Debug\Mortar Sim Servo.pdb
+C:\Users\LENOVO\source\repos\8 September 2022\Mortar Sim Servo\Mortar Sim Servo\obj\Debug\Mortar Sim Servo.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\8 September 2022\Mortar Sim Servo\Mortar Sim Servo\obj\Debug\Mortar Sim Servo.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\8 September 2022\Mortar Sim Servo\Mortar Sim Servo\obj\Debug\Mortar_Sim_Servo.Form1.resources
+C:\Users\LENOVO\source\repos\8 September 2022\Mortar Sim Servo\Mortar Sim Servo\obj\Debug\Mortar_Sim_Servo.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\8 September 2022\Mortar Sim Servo\Mortar Sim Servo\obj\Debug\Mortar Sim Servo.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\8 September 2022\Mortar Sim Servo\Mortar Sim Servo\obj\Debug\Mortar Sim Servo.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\8 September 2022\Mortar Sim Servo\Mortar Sim Servo\obj\Debug\Mortar Sim Servo.exe
+C:\Users\LENOVO\source\repos\8 September 2022\Mortar Sim Servo\Mortar Sim Servo\obj\Debug\Mortar Sim Servo.pdb
